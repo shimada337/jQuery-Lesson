@@ -1,4 +1,4 @@
-body {
+.box-group {
   display: flex;
 }
 
@@ -41,4 +41,26 @@ body {
 
 .box5-ext {
   border-bottom: 5px solid #981598;
+}
+
+.boxs {
+  background-color: #ffffff;
+  height: 200px;
+  width: 200px;
+}
+
+.bg1 {
+  background-color: #ffaaaa;
+}
+
+.bg2 {
+  background-color: #ffbbbb;
+}
+
+.bg3 {
+  background-color: #ffcccc;
+}
+
+.bg4 {
+  background-color: #ffdddd;
 }
