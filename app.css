@@ -12,13 +12,33 @@ body {
 .box2 {
   display: none;
   background-color: aqua;
-  width: 300px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
 }
 
 .box3 {
   display: none;
   background-color: blueviolet;
   width: 200px;
-  height: 300px;
+  height: 200px;
+}
+
+.box4 {
+  background-color: #ff0000;
+  height: 200px;
+  width: 200px;
+}
+
+.box4-ext {
+  border: 10px solid black;
+}
+
+.box5 {
+  background-color: #585858;
+  height: 200px;
+  width: 200px;
+}
+
+.box5-ext {
+  border-bottom: 5px solid #981598;
 }
